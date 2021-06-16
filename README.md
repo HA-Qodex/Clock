@@ -4,7 +4,7 @@ This app has been created using Flutter
 # Contents
 * Clock
 * Alarm
-* Stowatch
+* Stopwatch
 * Coundown timer
 * Custom paint
 * Provider
